@@ -1,7 +1,8 @@
 ## Olá, eu sou Pedro Fernandes, desenvolvedor Jr.
 
-✔ Possuo experiência com front-end e back-end
-
+✔ Possuo experiência com front-end e back-end <br>
+🧠 Criatividade
+<hr>
 
 <div align="center">
   <a href="https://github.com/pedro-h-fernandes">
