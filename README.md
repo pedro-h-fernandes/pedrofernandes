@@ -1,18 +1,18 @@
-## Olá, eu sou Pedro Fernandes, desenvolvedor Jr.
 
-Sobre Mim
-Olá! 👋 Meu nome é Pedro Henrique Fernandes, tenho 20 anos e sou de Indaiatuba, SP.
-
+## Olá! 👋 Meu nome é Pedro Henrique Fernandes, tenho 20 anos e sou de Indaiatuba, SP.
+<br>
 Formação e Experiência Profissional
 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.
 💼 Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.
 🔧 Atualmente, estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.
+<br>
 Habilidades e Tecnologias
 💻 Desenvolvimento Web: Vue.js, Node.js
 🗃️ Banco de Dados: MongoDB, SQL
 🛠️ Outras Tecnologias: TypeScript, HTML, CSS
 💬 Sou conhecido por minha natureza comunicativa, o que me permite colaborar efetivamente em equipes e interagir com diferentes stakeholders.
 🚀 Estou em constante busca por desafios na área de Tecnologia da Informação, onde posso aplicar meu conhecimento e paixão pela inovação para impulsionar o sucesso da equipe e da organização.
+<br>
 Idiomas
 🌍 Fluente em inglês (Certificado Cambridge English: First). Facilita a comunicação em ambientes multiculturais e expande as oportunidades profissionais.
 Contato
