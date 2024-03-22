@@ -15,8 +15,7 @@ Habilidades e Tecnologias
 <br>
 Idiomas
 🌍 Fluente em inglês (Certificado Cambridge English: First). Facilita a comunicação em ambientes multiculturais e expande as oportunidades profissionais.
-Contato
-✉️ [LinkedIn](Inserir link do perfil do LinkedIn)
+
 Fique à vontade para entrar em contato ou explorar meu perfil! Estou sempre aberto a novas oportunidades e colaborações.
 <hr>
 
