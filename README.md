@@ -1,10 +1,13 @@
 
 ## Olá! 👋 Meu nome é Pedro Henrique Fernandes, tenho 20 anos e sou de Indaiatuba, SP.
 <br>
-Formação e Experiência Profissional
+## Formação e Experiência Profissional
+<ul>
 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.
 💼 Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.
 🔧 Atualmente, estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.
+</ul>
+
 <br>
 Habilidades e Tecnologias
 💻 Desenvolvimento Web: Vue.js, Node.js
