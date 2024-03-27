@@ -3,9 +3,9 @@
 
 <h2>Formação e Experiência Profissional</h2>
 <ul>
-🎓 <li>Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.</li>
-💼 <li>Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.</li>
-🔧 <li>Atualmente, estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.</li>
+ <li style="list_style:none;">🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.</li>
+ <li style="list_style:none;">💼 Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.</li>
+ <li style="list_style:none;">🔧 Atualmente, estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.</li>
 </ul>
 
 <br>
@@ -34,7 +34,7 @@ Fique à vontade para entrar em contato ou explorar meu perfil! Estou sempre abe
   <img align="center" alt="Pedro-Ts"  height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pedro-HTML"  height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS"  height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Pedro-DOCKER"   height="35"" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />    
+  <img align="center" alt="Pedro-DOCKER"   height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />    
   <img align="center" alt="Pedro-VUE" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />          
   <img align="center" alt="Pedro-MONGO" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
@@ -47,6 +47,6 @@ Fique à vontade para entrar em contato ou explorar meu perfil! Estou sempre abe
   <a href = "mailto:pfernandes180103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henr-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pedro-h-fernandes/pedrofernandes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedro-h-fernandes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
