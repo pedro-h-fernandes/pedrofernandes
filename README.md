@@ -3,10 +3,10 @@
 
 <h2>Formação e Experiência Profissional</h2>
 <ul>
- <li style="list_style:none;">🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.</li>
- <li style="list_style:none;">💼 Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.</li>
- <li style="list_style:none;">🔧 Estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.</li>
  <li style="list_style:none;">📈 Atualmente sou analísta de dados no Itau unibanco 🧡</li>
+ <li style="list_style:none;">🔧 Ja fui estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.</li>
+ <li style="list_style:none;">💼 Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.</li>
+ <li style="list_style:none;">🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.</li>
 </ul>
 
 <br>
