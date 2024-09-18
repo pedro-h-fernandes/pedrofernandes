@@ -5,12 +5,14 @@
 <ul>
  <li style="list_style:none;">🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Martinho Di Ciero (2021). Destaque em lógica de programação, desenvolvimento web e banco de dados.</li>
  <li style="list_style:none;">💼 Experiência na NCI Innova (2022) com Vue.js, MongoDB, Node.js e TypeScript. Contribuí para projetos desafiadores, fortalecendo habilidades técnicas e de gestão.</li>
- <li style="list_style:none;">🔧 Atualmente, estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.</li>
+ <li style="list_style:none;">🔧 Estagiário de TI na Unimax, oferecendo suporte técnico e manutenção de rede. Comprometido em garantir a eficiência dos sistemas e a satisfação dos usuários.</li>
+ <li style="list_style:none;">📈 Atualmente sou analísta de dados no Itau unibanco 🧡</li>
 </ul>
 
 <br>
 Habilidades e Tecnologias
 💻 Desenvolvimento Web: Vue.js, Node.js
+🎲 Analista de dados: Python , AWS, SQL
 🗃️ Banco de Dados: MongoDB, SQL
 🛠️ Outras Tecnologias: TypeScript, HTML, CSS
 💬 Sou conhecido por minha natureza comunicativa, o que me permite colaborar efetivamente em equipes e interagir com diferentes stakeholders.
